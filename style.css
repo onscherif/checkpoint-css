@@ -1,0 +1,75 @@
+body{
+    background-color: #ff9e80;
+}
+h1{
+    font-family: cursive;
+    font-size: medium;
+    font-weight: 1000px;
+    border-radius: 0fr;
+}
+p{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    font-style: normal;
+}
+img{
+    border-radius: 20px solid black;
+    padding: 15px;
+    border-color:2px,black;
+    margin-left: 500px;
+  }
+h2{
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 1000;
+}
+li{
+    font-size: medium;
+    font-family: fantasy;
+    font-style: unset;
+    font-stretch: narrower;
+}
+fieldset{
+    border-radius: 50px;
+    border-color: black;
+}
+legend{
+    font-family: monospace;
+    font-weight: 700;
+}
+label {
+    margin-top:10px;
+    display:block;
+    }
+ input, text , email, tel,date,sumbit{
+        padding:3px;
+        border:1px solid #F5C5C5;
+        border-radius:5px;
+        width:200px;
+        box-shadow:1px 1px 2px #C0C0C0 inset;
+}
+h3{
+    font-family: serif;
+    font-weight: 1000;
+    font-size:larger;
+}
+.titre{
+    padding-top: 30%;
+}
+#python{
+    font-size: large;
+    font-family: cursive;
+    font-weight: 300;
+}
+h4{
+    font-style: italic;
+    font-weight: 8000;
+  font-family: serif;
+}
+#html{
+    font-size: medium;
+    font-weight: 800;
+    font-style: oblique;
+
+}
+
